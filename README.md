@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm KC 👋
 
-<!--
-**itsmechloe/itsmechloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+
+* **Bachelor of Science in Computer Science**
+    * New Era University | 2024 – Present
+* **Senior High School**
+    * New Era University | 2022 – 2024
+* **Junior Highschool**
+    * New Era University | 2018 - 2022
+* **Elementary**
+    * Project 6 Elementary School | 2011 - 2018
+
+---
+
+### 📜 Certifications
+
+| Certificate | Issued By | Date |
+| :--- | :--- | :--- |
+| **[SQL Database 101](https://courses.cognitiveclass.ai/certificates/2387260c701c4d83b647a884a35fe2e2)** | Cognitive Class Ai | 2025 |
+
+---
+
+### 🛠 Skillsets
+
+**Languages**
+* Java
+* HTML
+* SQL
+
+**Databases and Services**
+* IBM Db2 Cloud
+* Supabase
+
+**Soft Skills**
+* Communication, Leadership, Problem Solving
+
+---
+*⭐️ Thanks for visiting my profile!*
