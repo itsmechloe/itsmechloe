@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm cutest gamer KC 👋  
+# Hi there, I'm Kathryn Chloe V. Silvestre 👋  
 🌹💗 *welcome to my pastel pink & lavender rose garden on GitHub* 💜🌹
 
 **━━━━━━━━━━ 🌸🌹🩷💜🌹🌸 ━━━━━━━━━━**
